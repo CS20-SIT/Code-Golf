@@ -1,0 +1,1 @@
+var fb=(n)=>{s=`${n%3==0?"Fizz":""}${n%5==0?"Buzz":""}`;console.log(s==""?n:s)}
