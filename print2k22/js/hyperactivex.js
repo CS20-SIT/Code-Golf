@@ -1,0 +1,1 @@
+for (let i = 1; i <= 2022; i++) console.log(i)
