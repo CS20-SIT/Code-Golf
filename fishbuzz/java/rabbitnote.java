@@ -1,0 +1,1 @@
+package fishbuzz.java;import java.util.Scanner;public class rabbitnote {public static void main(String[] args) {Scanner sc = new Scanner(System.in);int a = sc.nextInt();var result = (a % 15 == 0) ? "FishBuzz" : (a % 5 == 0) ? "Buzz" : (a % 3 == 0) ? "Fish" : a;System.out.println(result);}}
