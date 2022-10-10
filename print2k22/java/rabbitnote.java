@@ -1,0 +1,1 @@
+package print2k22.java;public class rabbitnote {public static void main(String args[]) {for (int i = 1; i <= 2022; i++) {System.out.println(i);}}}
